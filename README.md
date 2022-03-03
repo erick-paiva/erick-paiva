@@ -22,7 +22,7 @@
   <img align="center" alt="Erick-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  
 </div>
-  ##
+  <h1> </h1>
   <div style="display: inline_block" align="center" >
  <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEC0vAzbcfl2g/profile-displayphoto-shrink_200_200/0/1641078545181?e=1651708800&v=beta&t=uk4UPSPLEkTM0E6uuN1gTESaaKagkAIuvtuWJ3B6pSQ" target="_blank"></a>
   
