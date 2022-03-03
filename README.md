@@ -1,7 +1,7 @@
 ##Olá me Chamo Erick Paiva!
 <div align="center">
   <a href="https://github.com/erick-paiva">
-  <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=erickpaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=erick-paiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-paiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
