@@ -20,24 +20,15 @@
   <img align="center" alt="Erick-HEROKU" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
   <img align="center" alt="Erick-JEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Erick-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  
-  
-<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-</div>
-  
-  ##
  
-<div style="display: inline_block" >
+</div>
+  ##
+  <div style="display: inline_block" align="center" >
+ <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEC0vAzbcfl2g/profile-displayphoto-shrink_200_200/0/1641078545181?e=1651708800&v=beta&t=uk4UPSPLEkTM0E6uuN1gTESaaKagkAIuvtuWJ3B6pSQ" target="_blank"></a>
+  
   <a href="https://instagram.com/erickpsdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:erickpaivaasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
   
-  
-  <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEC0vAzbcfl2g/profile-displayphoto-shrink_200_200/0/1641078545181?e=1651708800&v=beta&t=uk4UPSPLEkTM0E6uuN1gTESaaKagkAIuvtuWJ3B6pSQ" target="_blank"></a>
-  
- 
-  
-  
-<!--   ![Snake animation](https://github.com/erick-paiva/erick-paiva/blob/output/github-contribution-grid-snake.svg) -->
- 
+  ![Snake animation](https://github.com/erick-paiva/erick-paiva/blob/output/github-contribution-grid-snake.svg)
 </div>
