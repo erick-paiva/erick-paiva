@@ -24,7 +24,7 @@
 </div>
   <h1> </h1>
   <div style="display: inline_block" align="center" >
- <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEC0vAzbcfl2g/profile-displayphoto-shrink_200_200/0/1641078545181?e=1651708800&v=beta&t=uk4UPSPLEkTM0E6uuN1gTESaaKagkAIuvtuWJ3B6pSQ" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/erick-paiva-silva-6baab1214/" target="_blank"><img src="https://ca.slack-edge.com/TQZR39SET-U0279QYHPPS-d55775c9edb8-512" target="_blank"></a>
   
   <a href="https://instagram.com/erickpsdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:erickpaivaasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
